@@ -34,7 +34,7 @@ st.write(
 )
 
 st.header("Select or upload an image")
-image_option = st.radio("Select or upload an image:", ('Upload', 'rib_fracture.png'))
+image_option = st.radio("Select or upload an image:", ('Upload', 'rib_fracture.jpeg'))
 
 uploaded_image = None
 if image_option == 'Upload':

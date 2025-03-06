@@ -1,2 +1,5 @@
-streamlit==1.36.0
-tensorflow==2.18.0
+streamlit==1.13.0
+altair==4
+tensorflow==2.10.0
+tensorflow-text==2.10.0
+numpy==1.23.5

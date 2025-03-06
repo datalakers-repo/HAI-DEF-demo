@@ -23,7 +23,7 @@ Este repositório contém demonstrações de classificadores de imagens clínica
 
     #### Windows:
     ```bash
-    python -m venv <nome_do_ambiente>
+    py -3.10 -m venv <nome_do_ambiente>
     source <nome_do_ambiente>\Scripts\activate
     ```
 3. Instalar dependências: Após ativar o ambiente virtual, instale as dependências necessárias:
